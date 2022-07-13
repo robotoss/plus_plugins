@@ -29,6 +29,11 @@ dependencies:
   package_info_plus_macos: ^1.2.0
   package_info_plus_windows: ^1.0.6
   package_info_plus_web: ^1.0.5
+  
+package_info_plus_web:
+    git:
+      url: https://github.com/robotoss/plus_plugins.git
+      path: packages/package_info_plus/package_info_plus_web/
 
 dev_dependencies:
   flutter_test:
